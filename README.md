@@ -1,2 +1,3 @@
 # SQL Alchemy Advanced Data Storage and Retrieval
-Utilizing SQL Alchemy here to do deep analysis on DB quiries.
+
+In this project, I utilize SQL Alchemy to perform analysis and run queries on weather data for vacation planning.
